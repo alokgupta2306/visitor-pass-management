@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log*
+yarn-error.log*
+*.log
+.env
+backend/.env
+backend/uploads
+frontend/build
+
+
